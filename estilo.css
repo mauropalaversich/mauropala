@@ -90,7 +90,7 @@ header {
 .contenido-banner {
 
     position: relative;
-    color: white;
+    color: blue;
     height: 100%;
     display: flex;
     flex-direction: column;
